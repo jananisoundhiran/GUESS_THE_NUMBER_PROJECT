@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("number\ 1.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.container{
+    background-color: #fff;
+    opacity: 0.7;
+    display: inline-block;
+    height: 300px;
+    width: 600px;
+    margin-top: 120px;
+    border-radius: 20px;
+    box-shadow: 0 6px 6px rgba(0,0,0,0.6);
+}
+h1{
+    font-family: "Showcard Gothic";
+    margin-top: 15px;
+}
+input{
+    margin-top: 15px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: "Goudy Stout";
+    background-color: palevioletred;
+    box-shadow: 0 6px 6px rgba(0,0,0,0.6);
+    border-radius: 20px;
+    
+}
+h2,h3{
+    margin-top: 15px;
+    font-family: "Showcard Gothic";
+}
+
